@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "クリスマス",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-12T17:36:34.670353Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チキチキバンバン - クリスマス・シャンシャン",
+      "artist": "QUEENDOM",
+      "has_synced": false,
+      "path": "select/01_チキチキバンバン_-_クリスマス・シャンシャン_QUEENDOM.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クリスマス・イブ",
+      "artist": "Tatsuro Yamashita feat. Katsunori Maeda, 松井慶太 & 東京混声合唱団",
+      "has_synced": false,
+      "path": "select/02_クリスマス・イブ_Tatsuro_Yamashita_feat._Katsunori_Maeda,_松井慶太_&_東京混声合唱団.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス 〜 赤鼻のトナカイ - BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\"",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/03_ラスト・クリスマス_〜_赤鼻のトナカイ_-_BLACKPINK_ARENA_TOUR_2018__SPECIAL_FINAL_IN_KYOCERA_DOME_O_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス ～ 赤鼻のトナカイ ( BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\")",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/04_ラスト・クリスマス_~_赤鼻のトナカイ_(_BLACKPINK_ARENA_TOUR_2018__SPECIAL_FINAL_IN_KYOCERA_DOME_O_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハッピ!ハッピ!クリスマス〜サンタが家にやってきた〜",
+      "artist": "住所不定無職",
+      "has_synced": false,
+      "path": "select/05_ハッピ!ハッピ!クリスマス〜サンタが家にやってきた〜_住所不定無職.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "クリスマス·イブ - Vocal Line / 크리스마스 이브",
+      "artist": "BTOB",
+      "has_synced": false,
+      "path": "select/06_クリスマス·イブ_-_Vocal_Line___크리스마스_이브_BTOB.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "クリスマス・イブ",
+      "artist": "BTOB",
+      "has_synced": false,
+      "path": "select/07_クリスマス・イブ_BTOB.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "クリスマス・イブ - Vocal Line",
+      "artist": "BTOB",
+      "has_synced": false,
+      "path": "select/08_クリスマス・イブ_-_Vocal_Line_BTOB.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス ~ 赤鼻のトナカイ",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/09_ラスト・クリスマス_~_赤鼻のトナカイ_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス (Last Christmas)",
+      "artist": "Cano Caoli",
+      "has_synced": false,
+      "path": "select/10_ラスト・クリスマス_(Last_Christmas)_Cano_Caoli.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス (Last Christmas)",
+      "artist": "Cano, Caoli",
+      "has_synced": false,
+      "path": "select/11_ラスト・クリスマス_(Last_Christmas)_Cano,_Caoli.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "クリスマス・イブRap",
+      "artist": "KICK THE CAN CREW",
+      "has_synced": true,
+      "path": "select/12_クリスマス・イブRap_KICK_THE_CAN_CREW.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス",
+      "artist": "Soul To The World",
+      "has_synced": false,
+      "path": "select/13_ラスト・クリスマス_Soul_To_The_World.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ラスト・ クリスマス",
+      "artist": "Dario Daneluz",
+      "has_synced": false,
+      "path": "select/14_ラスト・_クリスマス_Dario_Daneluz.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "クリスマス?なにそれ?美味しいの?",
+      "artist": "ヒャダイン",
+      "has_synced": false,
+      "path": "select/15_クリスマス_なにそれ_美味しいの_ヒャダイン.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス / 赤鼻のトナカイ (Live)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/16_ラスト・クリスマス___赤鼻のトナカイ_(Live)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "クリスマス イブ Rap",
+      "artist": "KICK THE CAN CREW",
+      "has_synced": true,
+      "path": "select/17_クリスマス_イブ_Rap_KICK_THE_CAN_CREW.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "CRUSH クリスマス",
+      "artist": "SEX MACHINEGUNS",
+      "has_synced": false,
+      "path": "select/18_CRUSH_クリスマス_SEX_MACHINEGUNS.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス ~ 赤鼻のトナカイ (BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\")",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/19_ラスト・クリスマス_~_赤鼻のトナカイ_(BLACKPINK_ARENA_TOUR_2018__SPECIAL_FINAL_IN_KYOCERA_DOME_OS_BLACKPINK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クリスマス",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_クリスマス_amazarashi.txt"
+    }
+  ]
+}
